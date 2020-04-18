@@ -15,4 +15,4 @@ function getSessions() {
 }
 
 export { getSessions as default, sessionURL };
-export { sessionTemplate } from "./template";
+export { sessionTemplate, errorMessage } from "./template.js";
