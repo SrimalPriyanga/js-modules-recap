@@ -1,7 +1,9 @@
 # WorkingWithModules
-This Repository is for the Working with JavaScript Modules Pluralsight course. 
+
+This Repository is for the Working with JavaScript Modules Pluralsight course.
 
 # Summery
+
 Import and Export keywords
 Encapsulate code
 Control access
@@ -11,3 +13,14 @@ Modules are singletons
 Properties are bound
 Exports are static
 One module per file
+
+- Export
+
+  > Named Export
+  > Default Export
+  > Aggregating Modules
+
+- Import
+  > Enable Modules
+  > Default Import
+  > Named Import
